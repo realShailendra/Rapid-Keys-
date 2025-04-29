@@ -2,7 +2,7 @@
 
 **Rapid Keys** is a clean and responsive **Typing Speed Test** game built with **HTML, CSS, and JavaScript**. Challenge your typing speed and accuracy in just 60 seconds!
 
-![Typing Speed Test Screenshot](./assets/screenshot.png)
+![Typing Speed Test Screenshot](RapidKeys.png)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## 🖼️ Screenshot
 
-![Rapid Keys Screenshot](./assets/screenshot.png)
+![Rapid Keys Screenshot](RapidKeys.png)
 
 ---
 
